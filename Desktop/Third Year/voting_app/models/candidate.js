@@ -1,3 +1,4 @@
+//Comment for testingg
 const mongoose = require('mongoose');
 
 // Define the candidate schema 
